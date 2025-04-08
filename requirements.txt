@@ -1,0 +1,38 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+httpx==0.25.1
+
+# Database
+prisma==0.11.0
+psycopg2-binary==2.9.10
+
+# Template engine
+Jinja2>=3.1
+
+# Google APIs
+google-auth-oauthlib==1.1.0
+google-auth==2.23.4
+google-auth-httplib2==0.1.1
+
+# HTTP client
+requests==2.31.0
+
+# Type checking and validation
+pydantic>=2.4.2
+typing-extensions>=4.8.0
+
+# CORS support
+starlette>=0.27.0
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Removed
+# pinterest-python-sdk 
+
+# Added for FastAPI
+# flask-pymongo>=4.0 # Removed
+# hypercorn==0.16.0 # Removed (using Uvicorn now)
+# asgiref==3.8.1 # Removed (Uvicorn/FastAPI manage this) 
