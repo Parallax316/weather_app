@@ -149,7 +149,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Simarpreet Singh
 - Email: simarpreetsingh0316@gmail.com
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+
 
 This project was created as part of an assessment test for Product Manager Accelerator. 
